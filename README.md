@@ -357,7 +357,7 @@ A recommended repository structure is:
 ```text
 Seasonal-Agriculture-Performance-Analysis/
 │
-├── Seasonal_Agriculture_Performance_Analysis.ipynb
+├── VOIS_Major_Project_Seasonal_Agriculture_Performance_Analysis.ipynb
 ├── seasonal_agriculture_performance_dataset.csv
 ├── README.md
 │
@@ -395,7 +395,7 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn openpyxl joblib
 Open:
 
 ```text
-Seasonal_Agriculture_Performance_Analysis.ipynb
+VOIS_Major_Project_Seasonal_Agriculture_Performance_Analysis.ipynb
 ```
 
 using Jupyter Notebook, JupyterLab, or Google Colab.
