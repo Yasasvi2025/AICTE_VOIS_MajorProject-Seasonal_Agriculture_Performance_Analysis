@@ -361,19 +361,65 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── seasonal_agriculture_performance_dataset.csv
 ├── README.md
 │
-└── agriculture_project_outputs/
-    ├── cleaned_agriculture_dataset.csv
-    ├── season_performance.csv
-    ├── state_performance.csv
-    ├── district_performance.csv
-    ├── crop_season_summary.csv
-    ├── regression_model_comparison.csv
-    ├── classification_model_comparison.csv
-    ├── yield_feature_importance.csv
-    ├── classification_feature_importance.csv
-    ├── best_yield_prediction_model.pkl
-    ├── best_performance_classifier.pkl
-    └── Seasonal_Agriculture_Performance_Analysis.xlsx
+├── Major Project_Seasonal Agriculture Performance Analysis.pdf
+├── N.V.Yasasvi_VOIS_Major_Project_Seasonal_Agriculture_Performance_Analysis_PPT_Submission.pptx
+│
+├── agriculture_project_outputs/
+│   ├── cleaned_agriculture_dataset.csv
+│   ├── season_performance.csv
+│   ├── state_performance.csv
+│   ├── district_performance.csv
+│   ├── crop_season_summary.csv
+│   ├── regression_model_comparison.csv
+│   ├── classification_model_comparison.csv
+│   ├── yield_feature_importance.csv
+│   ├── classification_feature_importance.csv
+│   ├── best_yield_prediction_model.pkl
+│   ├── best_performance_classifier.pkl
+│   └── Seasonal_Agriculture_Performance_Analysis.xlsx
+│
+└── Screenshot Results/
+    │
+    ├── Data_Analytics/
+    │   ├── 15. Average Yield by Season.png
+    │   ├── 16. Profit by Season.png
+    │   ├── 17. Revenue vs Cost by Season.png
+    │   ├── 18. Rainfall by Season.png
+    │   ├── 19. Temperature by Season.png
+    │   ├── 20. Humidity by Season.png
+    │   ├── 21. Water Usage by Season.png
+    │   ├── 22. Water Efficiency by Season.png
+    │   ├── 23. Disease and Pest Risk by Season.png
+    │   ├── 24. Irrigation Method.png
+    │   ├── 25. Crop Distribution.png
+    │   ├── 27. Top Performing Crops by Yield.png
+    │   ├── 29. Heatmap Crop vs Season.png
+    │   ├── 33. Correlation Matrix.png
+    │   ├── 34. Rainfall vs Yield.png
+    │   ├── 35. Temperature vs Yield.png
+    │   ├── 36. Seed Quality vs Yield.png
+    │   ├── 37. Fertilizer vs Yield.png
+    │   ├── 38. Soil Moisture vs Yield.png
+    │   ├── 39. Profit vs Yield.png
+    │   ├── 40. Water Efficiency vs Yield.png
+    │   ├── 41. Box Plot - Yield by Season.png
+    │   ├── 42. Box Plot - Profit by Season.png
+    │   ├── 52. Most Profitable Crops.png
+    │   ├── 54. Irrigation Method vs Water...png
+    │   ├── 56. Seasonal Resource Usage...png
+    │   └── 58. Profit Margin by Season.png
+    │
+    ├── Machine_Learning/
+    │   ├── 73. Model Comparison Visualization.png
+    │   ├── 74. Actual vs Predicted Yield.png
+    │   ├── 76. Top 15 Important Features.png
+    │   ├── 91. Top Performing Regions.png
+    │   ├── 93. Disease and Pest Risk vs Yield.png
+    │   └── 106. Machine Learning Dashboard.png
+    │
+    └── Dashboard/
+        ├── 104. Agriculture Performance Dashboard.png
+        └── 105. Interactive Dashboard.png
 ```
 
 ---
